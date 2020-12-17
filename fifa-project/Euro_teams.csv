@@ -1,0 +1,300 @@
+team_api_id,team_long_name,team_short_name
+8350,1. FC Kaiserslautern,KAI
+8722,1. FC Köln,FCK
+8165,1. FC Nürnberg,NUR
+9905,1. FSV Mainz 05,MAI
+8576,AC Ajaccio,AJA
+108893,AC Arles-Avignon,ARL
+6493,AC Bellinzona,BEL
+10217,ADO Den Haag,HAA
+8583,AJ Auxerre,AUX
+9829,AS Monaco,MON
+8481,AS Nancy-Lorraine,NAN
+9853,AS Saint-Étienne,ETI
+10229,AZ,ALK
+8485,Aberdeen,ABE
+10215,Académica de Coimbra,ACA
+8593,Ajax,AJA
+10213,Amadora,AMA
+8121,Angers SCO,ANG
+8322,Arka Gdynia,ARK
+9825,Arsenal,ARS
+10252,Aston Villa,AVL
+8524,Atalanta,ATA
+8315,Athletic Club de Bilbao,BIL
+9906,Atlético Madrid,AMA
+10192,BSC Young Boys,YB
+9976,Bari,BAR
+8178,Bayer 04 Leverkusen,LEV
+9993,Beerschot AC,BAC
+8658,Birmingham City,BIR
+8655,Blackburn Rovers,BLB
+8483,Blackpool,BLA
+8613,Boavista FC,BOA
+9857,Bologna,BOL
+8559,Bolton Wanderers,BOL
+9789,Borussia Dortmund,DOR
+9788,Borussia Mönchengladbach,GLA
+8678,Bournemouth,BOU
+9858,Brescia,BRE
+8191,Burnley,BUR
+8371,CA Osasuna,OSA
+10214,CD Nacional,NAC
+8388,CD Numancia,NUM
+9867,CD Tenerife,TEN
+9807,CF Os Belenenses,BEL
+10212,CS Marítimo,MAR
+8529,Cagliari,CAG
+8344,Cardiff City,CAR
+208931,Carpi,CAP
+8530,Catania,CAT
+9925,Celtic,CEL
+9880,Cesena,CES
+8455,Chelsea,CHE
+8533,Chievo Verona,CHI
+8342,Club Brugge KV,CLB
+2186,Cracovia,CKR
+9826,Crystal Palace,CRY
+7869,Córdoba CF,COR
+9912,DSC Arminia Bielefeld,BIE
+8526,De Graafschap,GRA
+9836,Dijon FCO,DIJ
+8284,Dundee FC,DUF
+9938,Dundee United,DUU
+8457,Dunfermline Athletic,DUN
+10242,ES Troyes AC,TRO
+9776,Eintracht Braunschweig,BRA
+9810,Eintracht Frankfurt,EFR
+10268,Elche CF,ELC
+8534,Empoli,EMP
+9747,En Avant de Guingamp,GUI
+7842,Estoril Praia,EST
+8668,Everton,EVE
+10218,Excelsior,EXC
+9930,FC Aarau,AAR
+158085,FC Arouca,ARO
+8406,FC Augsburg,AUG
+8634,FC Barcelona,BAR
+9931,FC Basel,BAS
+9823,FC Bayern Munich,BMU
+6631,FC Dordrecht,DOR
+8398,FC Energie Cottbus,COT
+8674,FC Groningen,GRO
+8234,FC Ingolstadt 04,ING
+7730,FC Lausanne-Sports,LAU
+8689,FC Lorient,LOR
+10199,FC Luzern,LUZ
+8550,FC Metz,MET
+9830,FC Nantes,NAN
+6403,FC Paços de Ferreira,FER
+6547,FC Penafiel,PEN
+9773,FC Porto,POR
+10189,FC Schalke 04,S04
+10179,FC Sion,SIO
+9874,FC Sochaux-Montbéliard,SOC
+10190,FC St. Gallen,GAL
+8152,FC St. Pauli,STP
+10191,FC Thun,THU
+8611,FC Twente,TWE
+9908,FC Utrecht,UTR
+9824,FC Vaduz,VAD
+6601,FC Volendam,VOL
+10243,FC Zürich,ZUR
+7947,FCV Dender EH,DEN
+8596,Falkirk,FAL
+4064,Feirense,FEI
+10235,Feyenoord,FEY
+8535,Fiorentina,FIO
+8194,Fortuna Düsseldorf,FDU
+9891,Frosinone,FRO
+9879,Fulham,FUL
+6391,GFC Ajaccio,GAJ
+8569,GKS Bełchatów,BEL
+10233,Genoa,GEN
+8305,Getafe CF,GET
+9764,Gil Vicente FC,GV
+9827,Girondins de Bordeaux,BOR
+6433,Go Ahead Eagles,GAE
+7878,Granada CF,GRA
+9956,Grasshopper Club Zürich,GRA
+9855,Grenoble Foot 38,GRE
+8019,Górnik Łęczna,LEC
+9790,Hamburger SV,HAM
+8429,Hamilton Academical FC,HAM
+9904,Hannover 96,HAN
+9860,Heart of Midlothian,HEA
+9876,Hellas Verona,VER
+9791,Heracles Almelo,HER
+8177,Hertha BSC Berlin,HBE
+10251,Hibernian,HIB
+8667,Hull City,HUL
+10278,Hércules Club de Fútbol,HER
+8636,Inter,INT
+8066,Inverness Caledonian Thistle,INV
+1957,Jagiellonia Białystok,BIA
+9885,Juventus,JUV
+9991,KAA Gent,GEN
+6351,KAS Eupen,EUP
+9987,KRC Genk,GEN
+9984,KSV Cercle Brugge,CEB
+9999,KSV Roeselare,ROS
+8571,KV Kortrijk,KOR
+8203,KV Mechelen,MEC
+8573,KV Oostende,OOS
+10001,KVC Westerlo,WES
+8295,Karlsruher SC,KAR
+8597,Kilmarnock,KIL
+8245,Korona Kielce,KKI
+8639,LOSC Lille,LIL
+8543,Lazio,LAZ
+9746,Le Havre AC,LEH
+8682,Le Mans FC,LEM
+9888,Lecce,LEC
+2182,Lech Poznań,POZ
+8030,Lechia Gdańsk,LGD
+8673,Legia Warszawa,LEG
+8197,Leicester City,LEI
+6421,Leixões SC,LEI
+8581,Levante UD,LEV
+9989,Lierse SK,LIE
+8650,Liverpool,LIV
+8537,Livorno,LIV
+7896,Lugano,LUG
+8456,Manchester City,MCI
+10260,Manchester United,MUN
+8549,Middlesbrough,MID
+8564,Milan,ACM
+10249,Montpellier Hérault SC,MON
+8348,Moreirense FC,MOR
+9927,Motherwell,MOT
+9864,Málaga CF,MAL
+8464,N.E.C.,NEC
+9761,NAC Breda,NAC
+9875,Napoli,NAP
+9809,Naval 1° de Maio,NAV
+7955,Neuchâtel Xamax,XAM
+10261,Newcastle United,NEW
+9850,Norwich City,NOR
+6269,Novara,NOV
+9831,OGC Nice,NIC
+8242,Odra Wodzisław,ODR
+9748,Olympique Lyonnais,LYO
+8592,Olympique de Marseille,MAR
+1773,Oud-Heverlee Leuven,O-H
+2183,P. Warszawa,PWA
+6413,PEC Zwolle,ZWO
+8640,PSV,PSV
+8540,Palermo,PAL
+9847,Paris Saint-Germain,PSG
+10167,Parma,PAR
+8426,Partick Thistle F.C.,PAR
+9878,Pescara,PES
+8028,Piast Gliwice,PIG
+8033,Podbeskidzie Bielsko-Biała,POD
+8023,Pogoń Szczecin,POG
+8031,Polonia Bytom,POB
+8020,Polonia Bytom,GOR
+9765,Portimonense,POR
+8462,Portsmouth,POR
+10172,Queens Park Rangers,QPR
+9998,RAEC Mons,MON
+9910,RC Celta de Vigo,CEL
+9783,RC Deportivo de La Coruña,COR
+8588,RC Lens,LEN
+8479,RC Recreativo,HUE
+8558,RCD Espanyol,ESP
+8661,RCD Mallorca,MAL
+10219,RKC Waalwijk,RKC
+8635,RSC Anderlecht,AND
+8696,Racing Santander,SAN
+8548,Rangers,RAN
+8370,Rayo Vallecano,RAY
+9798,Reading,REA
+8603,Real Betis Balompié,BET
+8633,Real Madrid CF,REA
+8560,Real Sociedad,SOC
+9869,Real Sporting de Gijón,SPG
+10281,Real Valladolid,VAL
+8394,Real Zaragoza,ZAR
+8690,Reggio Calabria,REG
+7841,Rio Ave FC,RA
+9803,Roda JC Kerkrade,ROD
+8686,Roma,ROM
+8649,Ross County FC,ROS
+9996,Royal Excel Mouscron,MOU
+274581,Royal Excel Mouscron,MOP
+1601,Ruch Chorzów,CHO
+2033,S.C. Olhanense,OLH
+7794,SC Bastia,BAS
+10211,SC Beira Mar,B-M
+10264,SC Braga,BRA
+7788,SC Cambuur,CAM
+8358,SC Freiburg,FRE
+10228,SC Heerenveen,HEE
+8460,SC Paderborn 07,PAD
+8372,SD Eibar,EIB
+9772,SL Benfica,BEN
+7819,SM Caen,CAE
+8262,SV Darmstadt 98,DAR
+8697,SV Werder Bremen,WBR
+10000,SV Zulte-Waregem,ZUL
+9882,Sampdoria,SAM
+7943,Sassuolo,SAS
+9777,Servette FC,SER
+8302,Sevilla FC,SEV
+8551,Siena,SIE
+9997,Sint-Truidense VV,STT
+8466,Southampton,SOU
+8357,SpVgg Greuther Fürth,GRF
+8614,Sparta Rotterdam,SPA
+9768,Sporting CP,SCP
+9986,Sporting Charleroi,CHA
+9994,Sporting Lokeren,LOK
+8467,St. Johnstone FC,JOH
+9800,St. Mirren,MIR
+8521,Stade Brestois 29,BRE
+9851,Stade Rennais FC,REN
+9837,Stade de Reims,REI
+9985,Standard de Liège,STL
+10194,Stoke City,STK
+8472,Sunderland,SUN
+10003,Swansea City,SWA
+8226,TSG 1899 Hoffenheim,HOF
+177361,Termalica Bruk-Bet Nieciecza,TBN
+188163,Tondela,TON
+9804,Torino,TOR
+8586,Tottenham Hotspur,TOT
+9941,Toulouse FC,TOU
+7992,Trofense,TRO
+4049,Tubize,TUB
+9865,UD Almería,ALM
+8306,UD Las Palmas,LAS
+4170,US Boulogne Cote D'Opale,BOU
+8600,Udinese,UDI
+6367,Uniao da Madeira,MAD
+9771,"União de Leiria, SAD",ULE
+9839,VVV-Venlo,VEN
+10267,Valencia CF,VAL
+9873,Valenciennes FC,VAL
+10269,VfB Stuttgart,STU
+9911,VfL Bochum,BOC
+8721,VfL Wolfsburg,WOL
+10205,Villarreal CF,VIL
+8277,Vitesse,VIT
+7844,Vitória Guimarães,GUI
+10238,Vitória Setúbal,SET
+8475,Waasland-Beveren,WAA
+9817,Watford,WAT
+8659,West Bromwich Albion,WBA
+8654,West Ham United,WHU
+8244,Widzew Łódź,LOD
+8024,Widzew Łódź,WID
+8528,Wigan Athletic,WIG
+8525,Willem II,WII
+10265,Wisła Kraków,WIS
+8602,Wolverhampton Wanderers,WOL
+9868,Xerez Club Deportivo,XER
+8021,Zagłębie Lubin,ZAG
+8027,Zawisza Bydgoszcz,ZAW
+4087,Évian Thonon Gaillard FC,ETG
+8025,Śląsk Wrocław,SLA
